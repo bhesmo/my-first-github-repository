@@ -1,1 +1,3 @@
 Another file in feature-1 branch. Hello world.
+
+This file was modified locally.
